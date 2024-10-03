@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\bin\Debug\QueueSystem.exe.config
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\bin\Debug\QueueSystem.exe
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\bin\Debug\QueueSystem.pdb
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.QueueingForm.resources
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.Properties.Resources.resources
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.exe
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.pdb
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.CashierWindowQueue.resources
+C:\Users\Admin\source\repos\QueueSystem\QueueSystem\obj\Debug\QueueSystem.CustomerNumberServing.resources
